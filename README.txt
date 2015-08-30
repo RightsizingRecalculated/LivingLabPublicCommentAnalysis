@@ -10,7 +10,7 @@ This spreadsheet demonstrates that the public comment on the Folsom-corridor rig
 
 GoBoulder staff noted that they had received approximately 1900 public comments on 'right'-sizing, but did not supply a  statistical breakdown for all the public comments received.
 
-This spreadsheet shows that for all 1944 published public comments on right-sizing regardless of corridor, 59% were negative while only 35% were positive.
+This spreadsheet shows that for all 1944 published public comments on 'right'-sizing regardless of corridor, 59% were negative while only 35% were positive.
 
 But don't take my word for it. Look through this spreadsheet, sort and play with the data. Look carefully at the original pdfs from the Living Lab website. Retrace the steps I performed as I did this analysis.
 
