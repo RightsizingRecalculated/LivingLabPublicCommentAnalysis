@@ -1,6 +1,6 @@
 STEP 5 NOTES
 
-This folder contains a spreadsheet file in which I excluded all public comment that did not address the public corridor.  I then sorted, counted, and computed the percentages of the  public comments re Folsom corridor that staff rated negative or positive.  
+This folder contains a spreadsheet file in which I excluded all public comment that did not address the Folsom corridor.  I then sorted, counted, and computed the percentages of the public comments re Folsom corridor that staff rated negative or positive.  
 
 RightsizingAllPublicCommentFrom201508261015pdf.ods
 
